@@ -10,4 +10,4 @@ Site design mockup for Portland tattoo artist created using Sketch
 
 | Desktop | Tablet |
 | ------- | ------ |
-| ![Desktop](https://raw.githubusercontent.com/william-chu/al-tattoo/images/desktop.png) | ![Tablet](https://raw.githubusercontent.com/william-chu/al-tattoo/images/tablet.png) |
+| ![Desktop](https://raw.githubusercontent.com/william-chu/al-tattoo/master/images/desktop.png) | ![Tablet](https://raw.githubusercontent.com/william-chu/al-tattoo/master/images/tablet.png) |
